@@ -1,6 +1,5 @@
 """
 * Genetic Algorithm applied to the Knapsack Problem (an NP complete problem)
-* by Chase Bosworth
 * Version: Python 3.5
 *
 * Description: A problem in combinatorial optimization: Given a set of items,
